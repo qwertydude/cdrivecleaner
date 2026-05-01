@@ -2,6 +2,8 @@
 
 A Windows Forms desktop app for analyzing and removing reclaimable files on the `C:` drive.
 
+![Here is a preview of the app GUI](images/preview.jpg)
+
 ## What it includes
 
 - A multi-button cleanup dashboard for common storage targets
